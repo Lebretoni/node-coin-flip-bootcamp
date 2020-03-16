@@ -1,0 +1,10 @@
+h1{
+  color: black;
+}
+
+body {
+  background-image: url(../image/flip.gif);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  text-align: center;
+}
