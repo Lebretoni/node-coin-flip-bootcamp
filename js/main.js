@@ -1,3 +1,4 @@
+//We worked on this as a group; Gardner.
 let heads = document.getElementById('heads');
 let tails = document.getElementById('tails');
 let playerChoice;
